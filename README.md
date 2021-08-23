@@ -12,5 +12,5 @@ It is built on LAMP stack(Linux, Apache, MySQL, php).
 
 ## Site
 ```
-	http://ti-hospital.rf.gd/
+	[http://ti-hospital.rf.gd/](http://ti-hospital.rf.gd/)
 ```
