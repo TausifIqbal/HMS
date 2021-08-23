@@ -10,7 +10,5 @@ It is built on LAMP stack(Linux, Apache, MySQL, php).
 [Demo Video Link- https://drive.google.com/file/d/1VBqF6QDoONeAW5yz-JgEpqiYkDX167Nz/view?usp=sharing](https://drive.google.com/file/d/1VBqF6QDoONeAW5yz-JgEpqiYkDX167Nz/view?usp=sharing)
 
 
-## Site
-```
-	[http://ti-hospital.rf.gd/](http://ti-hospital.rf.gd/)
-```
+## Deployed on Infinityfree platform
+[http://ti-hospital.rf.gd/](http://ti-hospital.rf.gd/)
